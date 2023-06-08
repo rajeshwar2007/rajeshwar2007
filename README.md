@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Rajeshwar
-- 👀 I’m interested in IoT
-- 🌱 I’m currently learning IoT
+- 👀 I’m interested in python 
+- 🌱 I’m currently learning python sql
 - 💞️ I’m looking to collaborate on 
 - 📫 How to reach me ...
 
