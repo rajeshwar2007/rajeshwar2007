@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Rajeshwar
-- 👀 I’m interested in python 
-- 🌱 I’m currently learning Java fullstack 
-- 💞️ I’m looking to collaborate on 
+- I’m interested in python ,sql
+- I’m currently learning Java fullstack 
+- Project in Java Full Stack 
 - 📫 How to reach me ...
 
 <!---
